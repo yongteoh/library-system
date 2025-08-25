@@ -1,0 +1,58 @@
+Student Id = 1200233
+Name = Matt Damon
+course = CS
+Phone Number = 790-3233
+
+
+Student Id = 1201237
+Name = Ben Affleck
+course = IA
+Phone Number = 432-4579
+
+
+Student Id = 1300899
+Name = Salma Hayek
+course = CT
+Phone Number = 790-0000
+
+
+Student Id = 1502378
+Name = Ken Wong
+course = CN
+Phone Number = 892-3765
+
+
+Student Id = 1603679
+Name = Ben Ma
+course = IB
+Phone Number = 693-2367
+
+
+Student ID = 1201234
+Name = Emily Clark
+Course = IB
+Phone Number = 798-4567
+
+
+Student ID = 1201235
+Name = John Smith
+Course = CN
+Phone Number = 795-6789
+
+
+Student ID = 1201236
+Name = Ava Johnson
+Course = CT
+Phone Number = 794-7890
+
+
+Student ID = 1201238
+Name = Sophia Lee
+Course = IA
+Phone Number = 791-2345
+
+
+Student ID = 1200456
+Name = Emma Watson
+Course = CS
+Phone Number = 790-1122
